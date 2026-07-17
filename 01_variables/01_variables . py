@@ -1,0 +1,22 @@
+# Day 01 - Variables and Data Types 
+
+name = "Azmira"
+university = "National University"
+department = "Physics"
+age = 23
+cgpa = 3.82
+
+is_student = True 
+print ("Name:",name)
+print ("University:",university)
+print  ("Department: ",department)
+print ("Age:", age)
+print ("CGPA:", cgpa)
+print ("Student:", is_student)
+
+print(type(name))
+print(type(university))
+print(type(department))
+print(type(age))
+print(type(cgpa))
+print(type(is_student))
