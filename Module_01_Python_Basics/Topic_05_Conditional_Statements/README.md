@@ -68,7 +68,7 @@ README.md
 
 ## Learning Outcome 
 
-After completing this topic , you will be able to :
+After completing this topic ,  I can :
 
 -Use if statements
 
